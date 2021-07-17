@@ -1,0 +1,158 @@
+
+
+
+p0
+{
+padding: 15px;
+font-family: ms reference sans serif;
+font-size: 12pt;
+
+}
+
+
+
+
+#content1
+{
+	width: auto;
+	height:300px;
+	margin: auto;
+		align-content: center;
+}
+
+
+#logo
+{
+margin: auto;
+width:350px;
+margin-top: 70px;
+}
+
+#search
+{
+	height: 100px;
+	width:500px;
+
+}
+#content2
+{
+	height:500px;
+  background-position: top center;
+	z-index: 1;
+	align-content: center;
+	text-align: center;
+}
+
+#list
+{
+	width: 300px;
+	text-align: center;
+	object-position: center;
+	border: 700px;
+}
+
+table
+{
+	margin: auto;
+	padding: 30px;
+}
+
+td
+{
+	text-align: left;
+	margin-top: 1px;
+
+}
+li
+{
+	padding-left: 25px;
+	list-style: none;
+}
+
+p2
+{
+padding: 12px;
+font-family: ms reference sans serif;
+font-size: 14pt;
+color: #94d134;
+font-weight: bold;
+}
+
+p3
+{
+font-family: ms reference sans serif;
+font-size: 11pt;
+}
+
+p4
+{
+padding: 5px; /* расстояние между текстом */
+font-family: ms reference sans serif;
+font-size: 10pt;
+padding-left: 35%;
+
+
+}
+
+#contentnews1
+{
+	height:2000px;
+
+	margin-top: 50px;
+}
+#contentbook
+{
+	text-align: left;
+	text-align: left;
+	margin-right: 1000px;
+	display: block;
+}
+
+
+
+hr
+{
+	color: gray;
+}
+
+#contentlist
+{
+	height:2000px;
+	margin-top: 100px;
+}
+
+
+
+/*ПОИСК*/
+
+
+
+#search
+{
+	margin: auto;
+	padding-left: 100px;
+	padding-top: 20px;
+	height: 60px;
+
+}
+input
+{
+	width: 380px;
+	height: 40px;
+	font-size: 14pt;
+	border-style: solid;
+	border-color: #c2c2c2;
+
+	padding-left: 10px;
+
+}
+
+form
+{
+padding-left: 20px;
+}
+
+p5
+{
+	font-size: 15pt;
+}

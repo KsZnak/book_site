@@ -1,0 +1,79 @@
+body
+{
+
+	text-decoration: none;
+	width: 600px;
+	display: block;
+
+
+}
+#contentbook
+{
+	width: 500px;
+	padding-right: 1000px;
+
+}
+#contentname
+{
+	height: 1000px;
+	margin-top: 20px;
+	width: 800px;
+background-color: gray;
+object-position: center;
+
+}
+
+#contentlist
+{
+	margin-top: 100px;
+}
+
+
+pre
+{
+	overflow: auto;
+	white-space: pre-wrap;
+
+
+}
+
+h1
+{
+	font-family:  ms reference sans serif;
+	font-size: 18px;
+
+}
+#headerbook
+{
+	text-align: center;
+	height: 40px;
+	width: 100% ;
+	top: 0px;
+	padding-top: 10px;
+	position: absolute;
+
+a
+{
+	text-decoration: none;
+	color: black;
+
+}
+a:hover
+{
+	color:#3e8482;
+}
+
+p0
+{
+padding: 15px;
+font-family: ms reference sans serif;
+font-size: 12pt;
+
+}
+p1
+{
+padding: 20px; /* расстояние между текстом */
+font-family: ms reference sans serif;
+font-size: 15pt;
+
+}

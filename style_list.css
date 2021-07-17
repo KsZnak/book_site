@@ -1,0 +1,51 @@
+body
+{
+
+  width: auto;
+  position: inherit;
+
+}
+
+#contentlist
+{
+  padding-top: 100px;
+  width: 500px;
+  position: inherit;
+text-align: left;
+
+
+}
+
+#contentlistopen
+{
+  padding-top: 500px;
+  width: 500px;
+  position: inherit;
+  margin: auto;
+
+
+}
+
+
+li
+{
+  font-family: ms reference sans serif;
+  font-size: 10pt;
+  padding: 10px;
+
+  list-style: none;
+}
+
+table
+{
+padding-left: 10px;
+border: 80px;
+}
+td
+{
+padding-left: 30px;
+border: 10px;
+top: auto;
+vertical-align: top;
+
+}
